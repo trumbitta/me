@@ -1,6 +1,11 @@
 # Work Experience
 
-## R&D Director, Entando SRL; Cagliari — 2005-JULY 2014
+## Software Engineer (contractor), Inpeco SPA; Pula — October 2014 (current)
+
+- Working on 5 to 10+ projects simultaneously, collecting requirements and quickly producing low-fidelity UX mockups to receive and incorporate feedback by stakeholders and team members across the organization
+- Building web applications to manage clinic lab devices with Angular, Bootstrap, Grunt, WebSockets, TDD
+
+## R&D Director, Entando SRL; Cagliari — 2005-July 2014
 
 Agiletec SRL, then its spin-off Tzente SRL, which was renamed into Entando SRL.
 
