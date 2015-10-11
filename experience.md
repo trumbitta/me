@@ -23,4 +23,4 @@ A tough and extremely formative experience
 - Built a win-win situation both giving and gaining respect, despite the lots of communication and behavioural issues that made the previous teacher run away
 - Saw the class through the final exams, with success
 
-## Web Developer; Cagliari — 2000
+## Web Developer; Cagliari — 2000-2004
