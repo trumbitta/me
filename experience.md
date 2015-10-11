@@ -16,7 +16,6 @@ Agiletec SRL, then its spin-off Tzente SRL, which was renamed into Entando SRL.
 - Championed and completed the switch of Enterprise Portal System "Entando" from a customised build system to Maven
 - Conceived, designed, and built the Entando Bundles, greatly easing the process of building a website with Entando
 
-
 ## Substitute Teacher, IFoLD; Cagliari — April 2004-July 2004
 
 - Taught the basics of HTML to troubled teenagers age 14 - 19.
